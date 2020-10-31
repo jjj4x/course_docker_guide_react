@@ -1,0 +1,9 @@
+ve
+venv
+virtualenv
+
+.idea
+
+.git
+
+node_modules
